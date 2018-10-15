@@ -5,4 +5,8 @@
 ## SOURCE
 
 > The dataset was collected from kaggle.com.
-- [Click here] (https://www.kaggle.com/jonamjar/h1b-data-set-2017) is the where you can find the dataset. 
+- Find dataset here https://www.kaggle.com/jonamjar/h1b-data-set-2017
+
+### H-1B
+The H-1B is a visa in the United States under the Immigration and Nationality Act, section 101(a)(15)(H) which allows U.S. employers to employ foreign workers in specialty occupations.
+
