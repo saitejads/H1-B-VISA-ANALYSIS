@@ -3,7 +3,7 @@
 > A comprehensive analysis on H1-B visa analysis. 
 
 # UPDATE:
-##### Github is not capable of showing plotly's Interactive plots. So, thats the reason you will not be able to see any plots in the code. You can go the link https://www.kaggle.com/tejaeduc/comprehensive-h1-b-visa-analysis to find the plots
+### Github is not capable of showing plotly's Interactive plots. So, thats the reason you will not be able to see any plots in the code. You can go the link https://www.kaggle.com/tejaeduc/comprehensive-h1-b-visa-analysis to find the plots
 
 ## SOURCE
 
